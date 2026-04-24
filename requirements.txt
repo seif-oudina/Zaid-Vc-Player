@@ -20,3 +20,5 @@ future
 wget
 speedtest-cli
 pymongo
+tgcrypto
+pyrogram
